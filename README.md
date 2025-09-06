@@ -1,4 +1,4 @@
 # Automation
 Start github
 <br>
-Author - Mayur Bhagwat
+Author - Mayur Bhagwat(AI)
